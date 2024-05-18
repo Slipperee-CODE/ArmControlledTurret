@@ -4,3 +4,7 @@ Before you begin your use of this repository there are a couple important things
 - You will also likely need to download some other IDE (I used Pycharm) to run the Python program.
 
 That is all, happy programming!
+
+P.S. I apologize in advance if you have come across this repo before I have removed my many unecessary comments from the Python code.
+
+Proper documentation will appear one day.
